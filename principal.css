@@ -1,0 +1,30 @@
+#divHead{
+  width:95%;
+  height:100px;
+  background-image:url('images/fond.jpg');
+  background-repeat:no-repeat;
+  background-color:#1966A9;
+  position:absolute;
+}
+
+#divBody{
+  top:110px;
+  width:95%;
+  position:absolute;
+  overflow:auto;
+  text-align:center;
+}
+
+.caseTab{
+  width:100% ;
+  text-align:center;
+  font-size:xx-large;
+}
+
+.tab{
+  width:100% ;
+}
+
+body{
+  background-color:lightblue;    
+}
